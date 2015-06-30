@@ -4,4 +4,9 @@ Full Name ;Nick Name
 
 1. Jose Eugenio Quesada ; Joe Gene
 2. Jose Paolo De Guzman ; Paolo
+<<<<<<< HEAD
 3. Nikolai Maniquiz Quintos ; Coolai
+=======
+3. Karen Chong ; Kaye
+4. Keano Adrian Cruz ; Keano
+>>>>>>> e135416da454a112f50d43e58869b016c1514e6f
