@@ -4,79 +4,19 @@ Full Name ;Nick Name
 
 1. Jose Eugenio Quesada ; Joe Gene
 2. Jose Paolo De Guzman ; Paolo
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
 3. Karen Chong ; Kaye
->>>>>>> 19f5855c755d4c263b5c3f2605441a16343ef226
-6. John Kevin Villacorta ; Kevin
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-3. Richard Joseph Garcia ; Richard
-=======
-3. Leslie Samonte ; Leslie
-=======
-3. Karen Chong ; Kaye
-<<<<<<< HEAD
->>>>>>> a79230dba0e0cf5863b44f45dbdfa58d1e62057b
->>>>>>> a354b1470f759bcda90c6187f0951ab10f0f426a
-=======
-3. Jason Paul Alcantara ; Jason
->>>>>>> bc3fad3abb413848d1d9aedd39bb413f0de49a87
-=======
-4. Karen Chong ; Kaye
-<<<<<<< HEAD
-4. David Paul S. Corpuz; Pau-Pau
-=======
-<<<<<<< HEAD
->>>>>>> 19f5855c755d4c263b5c3f2605441a16343ef226
->>>>>>> 05b1c26e66b556df110de80e0834d6dfcd617acb
-=======
-<<<<<<< HEAD
-4. Keano Adrian Cruz ; Keano
-<<<<<<< HEAD
-=======
-5. Keano Adrian Cruz ; Keano
->>>>>>> e135416da454a112f50d43e58869b016c1514e6f
->>>>>>> 5cd9a7b7a9e910df17da60b89fe8e08029741334
-<<<<<<< HEAD
-<<<<<<< HEAD
-6. Joyce Mae Miralles ; Joyce
-=======
->>>>>>> bc3fad3abb413848d1d9aedd39bb413f0de49a87
->>>>>>> 4e675d8b1b2e544ae6dd30381c9a304103de1862
-=======
-<<<<<<< HEAD
-5. Princess Hannah Bangibang; Hannah
-=======
->>>>>>> 05b1c26e66b556df110de80e0834d6dfcd617acb
-<<<<<<< HEAD
->>>>>>> a354b1470f759bcda90c6187f0951ab10f0f426a
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-6. Kevin Matthew V. Austria
-=======
->>>>>>> 8183ffc39c9760d3dfad3c6989d12658f6466b7e
->>>>>>> bf33e7e3c48efc278c2bac832dc9dbe7c74af8f8
-=======
->>>>>>> 1a13669addcb9d4ea40456db87f0505902596523
-=======
->>>>>>> 8183ffc39c9760d3dfad3c6989d12658f6466b7e
->>>>>>> 4e675d8b1b2e544ae6dd30381c9a304103de1862
-<<<<<<< HEAD
->>>>>>> 2d42619328c98eec4c1ec69090b4bb0b0e202315
-=======
-6. Syamasundar Daswani; Syam
->>>>>>> 2ed4a31eca97e76e8eae310ae2d6f80bc25deac4
-=======
-7.Nicolas Nelson; Lilya/Nicolas
-8. Jestine Gaoaen ; Jestine
-<<<<<<< HEAD
->>>>>>> 5cd9a7b7a9e910df17da60b89fe8e08029741334
-=======
-9. Ruby Elizabeth P. Bisbal
->>>>>>> 74b7a4bbcf16c87c1dcc4b5c8d3b8eaf9ed07725
-10. Nikolai Maniquiz Quintos; Coolai
+4. John Kevin Villacorta ; Kevin
+5. Richard Joseph Garcia ; Richard
+6. Leslie Samonte ; Leslie
+7. Jason Paul Alcantara ; Jason
+8. David Paul S. Corpuz; Pau-Pau
+9. Keano Adrian Cruz ; Keano
+10. Joyce Mae Miralles ; Joyce
+11. Princess Hannah Bangibang; Hannah
+12. Kevin Matthew V. Austria
+13. Syamasundar Daswani; Syam
+14.Nicolas Nelson; Lilya/Nicolas
+15. Jestine Gaoaen ; Jestine
+16. Ruby Elizabeth P. Bisbal
+17. Nikolai Maniquiz Quintos; Coolai
+18. Jon Adam Reyes; Adam
