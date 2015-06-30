@@ -21,12 +21,6 @@ Full Name ;Nick Name
 =======
 4. Keano Adrian Cruz ; Keano
 <<<<<<< HEAD
-5. Nikolai Maniquiz Quintos ; Coolai
-=======
->>>>>>> e135416da454a112f50d43e58869b016c1514e6f
-<<<<<<< HEAD
->>>>>>> 41570ab4864b365973e49fe92d94613c705fb5d1
-=======
 <<<<<<< HEAD
 5. Princess Hannah Bangibang; Hannah
 =======
