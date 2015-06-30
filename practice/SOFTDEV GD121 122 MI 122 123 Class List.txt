@@ -74,4 +74,8 @@ Full Name ;Nick Name
 =======
 7.Nicolas Nelson; Lilya/Nicolas
 8. Jestine Gaoaen ; Jestine
+<<<<<<< HEAD
 >>>>>>> 5cd9a7b7a9e910df17da60b89fe8e08029741334
+=======
+9. Ruby Elizabeth P. Bisbal
+>>>>>>> 74b7a4bbcf16c87c1dcc4b5c8d3b8eaf9ed07725
