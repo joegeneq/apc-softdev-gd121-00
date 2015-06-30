@@ -5,7 +5,11 @@ Full Name ;Nick Name
 1. Jose Eugenio Quesada ; Joe Gene
 2. Jose Paolo De Guzman ; Paolo
 <<<<<<< HEAD
+<<<<<<< HEAD
 3. Richard Joseph Garcia ; Richard
+=======
+3. Jason Paul Alcantara ; Jason
+>>>>>>> bc3fad3abb413848d1d9aedd39bb413f0de49a87
 =======
 3. Karen Chong ; Kaye
 <<<<<<< HEAD
