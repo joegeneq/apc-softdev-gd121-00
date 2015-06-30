@@ -3,4 +3,8 @@ Write the following Information:
 Full Name ;Nick Name
 
 1. Jose Eugenio Quesada ; Joe Gene
+<<<<<<< HEAD
 2. Nikolai Maniquiz Quintos ; Coolai
+=======
+2. Jose Paolo De Guzman ; Paolo
+>>>>>>> a069bfc4086265376896aaea7fa14355cc955247
