@@ -65,3 +65,4 @@ Full Name ;Nick Name
 >>>>>>> 2ed4a31eca97e76e8eae310ae2d6f80bc25deac4
 =======
 7.Nicolas Nelson; Lilya/Nicolas
+8. Jestine Gaoaen ; Jestine
