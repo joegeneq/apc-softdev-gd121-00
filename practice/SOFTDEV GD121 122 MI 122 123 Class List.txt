@@ -13,4 +13,11 @@ Full Name ;Nick Name
 =======
 5. Keano Adrian Cruz ; Keano
 >>>>>>> e135416da454a112f50d43e58869b016c1514e6f
+<<<<<<< HEAD
 6. Joyce Mae Miralles ; Joyce
+=======
+<<<<<<< HEAD
+5. Princess Hannah Bangibang; Hannah
+=======
+>>>>>>> 05b1c26e66b556df110de80e0834d6dfcd617acb
+>>>>>>> 1a13669addcb9d4ea40456db87f0505902596523
