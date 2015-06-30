@@ -16,4 +16,11 @@ Full Name ;Nick Name
 =======
 4. Keano Adrian Cruz ; Keano
 >>>>>>> e135416da454a112f50d43e58869b016c1514e6f
+<<<<<<< HEAD
 >>>>>>> bc3fad3abb413848d1d9aedd39bb413f0de49a87
+=======
+<<<<<<< HEAD
+5. Princess Hannah Bangibang; Hannah
+=======
+>>>>>>> 05b1c26e66b556df110de80e0834d6dfcd617acb
+>>>>>>> 8183ffc39c9760d3dfad3c6989d12658f6466b7e
