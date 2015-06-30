@@ -8,4 +8,8 @@ Full Name ;Nick Name
 3. Leslie Samonte ; Leslie
 =======
 3. Karen Chong ; Kaye
+<<<<<<< HEAD
 >>>>>>> a79230dba0e0cf5863b44f45dbdfa58d1e62057b
+=======
+4. Keano Adrian Cruz ; Keano
+>>>>>>> e135416da454a112f50d43e58869b016c1514e6f
