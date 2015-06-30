@@ -7,4 +7,8 @@ Full Name ;Nick Name
 2. Nikolai Maniquiz Quintos ; Coolai
 =======
 2. Jose Paolo De Guzman ; Paolo
+<<<<<<< HEAD
 >>>>>>> a069bfc4086265376896aaea7fa14355cc955247
+=======
+3. Karen Chong ; Kaye
+>>>>>>> 24ff05dd26230486259271639b6be5e80fc66490
