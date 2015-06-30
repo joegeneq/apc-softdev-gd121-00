@@ -6,7 +6,15 @@ Full Name ;Nick Name
 2. Jose Paolo De Guzman ; Paolo
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 3. Richard Joseph Garcia ; Richard
+=======
+3. Leslie Samonte ; Leslie
+=======
+3. Karen Chong ; Kaye
+<<<<<<< HEAD
+>>>>>>> a79230dba0e0cf5863b44f45dbdfa58d1e62057b
+>>>>>>> a354b1470f759bcda90c6187f0951ab10f0f426a
 =======
 3. Jason Paul Alcantara ; Jason
 >>>>>>> bc3fad3abb413848d1d9aedd39bb413f0de49a87
@@ -14,6 +22,7 @@ Full Name ;Nick Name
 3. Karen Chong ; Kaye
 <<<<<<< HEAD
 >>>>>>> 19f5855c755d4c263b5c3f2605441a16343ef226
+>>>>>>> 05b1c26e66b556df110de80e0834d6dfcd617acb
 =======
 4. Keano Adrian Cruz ; Keano
 >>>>>>> e135416da454a112f50d43e58869b016c1514e6f
