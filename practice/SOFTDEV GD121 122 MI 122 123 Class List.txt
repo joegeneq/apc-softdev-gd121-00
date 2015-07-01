@@ -7,21 +7,8 @@ Full Name ;Nick Name
 2. Jose Paolo De Guzman ; Paolo
 =======
 2. Jose Paolo De Guzman ; Paolo
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
 3. Karen Chong ; Kaye
->>>>>>> 19f5855c755d4c263b5c3f2605441a16343ef226
-6. John Kevin Villacorta ; Kevin
-=======
 <<<<<<< HEAD
-<<<<<<< HEAD
-3. Richard Joseph Garcia ; Richard
-=======
-3. Leslie Samonte ; Leslie
-=======
-3. Karen Chong ; Kaye
 <<<<<<< HEAD
 >>>>>>> a79230dba0e0cf5863b44f45dbdfa58d1e62057b
 >>>>>>> a354b1470f759bcda90c6187f0951ab10f0f426a
@@ -71,3 +58,22 @@ Full Name ;Nick Name
 8. Jestine Gaoaen ; Jestine
 9. Ruby Elizabeth P. Bisbal
 >>>>>>> 74b7a4bbcf16c87c1dcc4b5c8d3b8eaf9ed07725
+=======
+4. John Kevin Villacorta ; Kevin
+5. Richard Joseph Garcia ; Richard
+6. Leslie Samonte ; Leslie
+7. Jason Paul Alcantara ; Jason
+8. David Paul S. Corpuz; Pau-Pau
+9. Keano Adrian Cruz ; Keano
+10. Joyce Mae Miralles ; Joyce
+11. Princess Hannah Bangibang; Hannah
+12. Kevin Matthew V. Austria
+13. Syamasundar Daswani; Syam
+14.Nicolas Nelson; Lilya/Nicolas
+15. Jestine Gaoaen ; Jestine
+16. Ruby Elizabeth P. Bisbal
+17. Nikolai Maniquiz Quintos; Coolai
+18. Jon Adam Reyes; Adam
+19. Vince Andre Belleza; Vince
+20. Aileen Mendoza ; Aileen
+>>>>>>> 1e631254d45b87fc92bcf4f5f53ad06af9928a5d
